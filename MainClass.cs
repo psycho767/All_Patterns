@@ -15,7 +15,9 @@ namespace All_Type_Patterns
             list.Add("1-Left Triangle");
             list.Add("2-Right Triangle");
             list.Add("3-Triangle");
-            list.Add("4-Triangle");
+            list.Add("4-Reverse Left Triangle");
+            list.Add("5-Reverse Right Triangle");
+
             foreach (string s in list)
             {
                 Console.WriteLine(s);
@@ -37,7 +39,12 @@ namespace All_Type_Patterns
                     tri.LeftAngle(length);
                 else if (num == 2)
                     tri.RightAngle(length);
-
+                else if(num==3)
+                    tri._triangle(length);
+                else if(num==4)
+                    tri.Reverse_LeftAngle(length);
+                else if(num==5)
+                    tri.Reverse_RightAngle(length);
             }
 
 
