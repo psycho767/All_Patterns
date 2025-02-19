@@ -1,0 +1,14 @@
+D:\Web API\All_Type_Patterns\bin\Debug\net8.0\All_Type_Patterns.exe
+D:\Web API\All_Type_Patterns\bin\Debug\net8.0\All_Type_Patterns.deps.json
+D:\Web API\All_Type_Patterns\bin\Debug\net8.0\All_Type_Patterns.runtimeconfig.json
+D:\Web API\All_Type_Patterns\bin\Debug\net8.0\All_Type_Patterns.dll
+D:\Web API\All_Type_Patterns\bin\Debug\net8.0\All_Type_Patterns.pdb
+D:\Web API\All_Type_Patterns\obj\Debug\net8.0\All_Type_Patterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web API\All_Type_Patterns\obj\Debug\net8.0\All_Type_Patterns.AssemblyInfoInputs.cache
+D:\Web API\All_Type_Patterns\obj\Debug\net8.0\All_Type_Patterns.AssemblyInfo.cs
+D:\Web API\All_Type_Patterns\obj\Debug\net8.0\All_Type_Patterns.csproj.CoreCompileInputs.cache
+D:\Web API\All_Type_Patterns\obj\Debug\net8.0\All_Type_Patterns.dll
+D:\Web API\All_Type_Patterns\obj\Debug\net8.0\refint\All_Type_Patterns.dll
+D:\Web API\All_Type_Patterns\obj\Debug\net8.0\All_Type_Patterns.pdb
+D:\Web API\All_Type_Patterns\obj\Debug\net8.0\All_Type_Patterns.genruntimeconfig.cache
+D:\Web API\All_Type_Patterns\obj\Debug\net8.0\ref\All_Type_Patterns.dll
