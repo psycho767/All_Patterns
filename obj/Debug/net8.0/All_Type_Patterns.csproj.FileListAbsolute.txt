@@ -12,3 +12,4 @@ D:\Web API\All_Type_Patterns\obj\Debug\net8.0\refint\All_Type_Patterns.dll
 D:\Web API\All_Type_Patterns\obj\Debug\net8.0\All_Type_Patterns.pdb
 D:\Web API\All_Type_Patterns\obj\Debug\net8.0\All_Type_Patterns.genruntimeconfig.cache
 D:\Web API\All_Type_Patterns\obj\Debug\net8.0\ref\All_Type_Patterns.dll
+D:\Web API\All_Type_Patterns\obj\Debug\net8.0\All_Type_Patterns.sourcelink.json

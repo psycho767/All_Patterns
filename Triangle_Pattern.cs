@@ -15,6 +15,16 @@ namespace All_Type_Patterns
                 Console.WriteLine(new string('*',i+1));
             }
         }
+        public void RightAngle(int length)
+        {
+            
+            for (int i = length; i > 0; i--)
+            {
+                Console.WriteLine(new string(' ',i-1)+new string('*',(length+1)-i));
+            }
+        }
+        
+
 
     }
 

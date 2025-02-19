@@ -20,10 +20,10 @@ namespace All_Type_Patterns
             {
                 Console.WriteLine(s);
             }
-            Console.WriteLine("Enter the Number to print triangle.....");
+            Console.Write("Enter the Number to print triangle.....:-");
             int num = Convert.ToInt16(Console.ReadLine());
             
-            Console.WriteLine("Enter the length of triangle.....");
+            Console.Write("Enter the length of triangle.....:-");
             int length = Convert.ToInt16(Console.ReadLine());
             if (length % 2 == 0)
             {
@@ -32,13 +32,11 @@ namespace All_Type_Patterns
             }
             else
             {
-                //Console.WriteLine("Numer-"+num);
-                //Console.WriteLine("Length-" + length);
                 Triangle_Pattern tri = new Triangle_Pattern();
                 if (num == 1)
-                {
                     tri.LeftAngle(length);
-                }
+                else if (num == 2)
+                    tri.RightAngle(length);
 
             }
 
