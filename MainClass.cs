@@ -17,6 +17,11 @@ namespace All_Type_Patterns
             list.Add("3-Triangle");
             list.Add("4-Reverse Left Triangle");
             list.Add("5-Reverse Right Triangle");
+            list.Add("6-Square");
+            list.Add("7-Outline-Square");
+            list.Add("8-Right Tilted Square");
+            list.Add("9-Right Tilted Outline Square");
+            list.Add("10-");
 
             foreach (string s in list)
             {
@@ -35,6 +40,7 @@ namespace All_Type_Patterns
             else
             {
                 Triangle_Pattern tri = new Triangle_Pattern();
+                Square_Pattern  square = new Square_Pattern();
                 if (num == 1)
                     tri.LeftAngle(length);
                 else if (num == 2)
@@ -45,6 +51,14 @@ namespace All_Type_Patterns
                     tri.Reverse_LeftAngle(length);
                 else if(num==5)
                     tri.Reverse_RightAngle(length);
+                else if(num==6)
+                    square.Square(length);
+                else if(num==7)
+                    square.Outline_Square(length);
+                else if(num==8)
+                    square.RightTiltedSquare(length);  
+                else if(num==9)
+                    square.RightTilted_OutlineSquare(length);      
             }
 
 
