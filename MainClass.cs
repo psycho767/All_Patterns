@@ -21,7 +21,9 @@ namespace All_Type_Patterns
             list.Add("7-Outline-Square");
             list.Add("8-Right Tilted Square");
             list.Add("9-Right Tilted Outline Square");
-            list.Add("10-");
+            list.Add("10-Left Tilted Square");
+            list.Add("11-Left Tilted Outline Square");
+            list.Add("12-Chess Square");
 
             foreach (string s in list)
             {
@@ -58,7 +60,13 @@ namespace All_Type_Patterns
                 else if(num==8)
                     square.RightTiltedSquare(length);  
                 else if(num==9)
-                    square.RightTilted_OutlineSquare(length);      
+                    square.RightTilted_OutlineSquare(length);
+                else if(num==10)
+                    square.LeftTiltedSquare(length);
+                else if(num==11)
+                    square.LeftTilted_OutlineSquare(length);
+                else if (num==12)
+                    square.Chess_Square(length);     
             }
 
 
